@@ -15,7 +15,7 @@
     "@bablr/agast-helpers": "0.7.1",
     "@bablr/agast-vm-helpers": "0.7.1",
     "@bablr/coroutine": "0.1.0",
-    "@iter-tools/imm-stack": "1.1.0",
+    "@iter-tools/imm-stack": "1.2.0",
     "ansi-styles": "6.2.1",
     "color-support": "1.1.3"
   },
