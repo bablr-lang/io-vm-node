@@ -16,7 +16,7 @@
     "@bablr/agast-vm-helpers": "0.10.4",
     "@bablr/helpers": "0.25.5",
     "@iter-tools/imm-stack": "1.2.0",
-    "ansi-styles": "6.2.1",
+    "femtocolor": "2.0.3",
     "color-support": "1.1.3"
   },
   "devDependencies": {
@@ -25,7 +25,6 @@
     "eslint": "^8.32.0",
     "eslint-import-resolver-enhanced-resolve": "^1.0.5",
     "eslint-plugin-import": "^2.27.5",
-    "iter-tools-es": "^7.3.1",
     "prettier": "^2.6.2"
   },
   "repository": {
