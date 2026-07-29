@@ -1,5 +1,5 @@
 {
-  "name": "@bablr/io-vm-node",
+  "name": "@bablr/io-vm",
   "description": "BABLR I/O VM for Node.js",
   "version": "0.0.0",
   "author": "Conrad Buck<conartist6@gmail.com>",
@@ -26,8 +26,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bablr-lang/io-vm-node.git"
+    "url": "git+https://github.com/bablr-lang/node-io-vm.git"
   },
-  "homepage": "https://github.com/bablr-lang/io-vm-node",
+  "homepage": "https://github.com/bablr-lang/node-io-vm",
   "license": "MIT"
 }

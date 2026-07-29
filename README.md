@@ -1,3 +1,3 @@
-# @bablr/io-vm-node
+# @bablr/io-vm
 
 A BABLR VM which directs `read` and `write` effects to the Node.js `process.input` and `process.output` streams
